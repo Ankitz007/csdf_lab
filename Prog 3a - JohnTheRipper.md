@@ -21,4 +21,5 @@ john -form=raw-md5 file1.txt file2.txt
 
 **Creating a new user**  
 sudo useradd -r <name>  
-sudo passwrd <name>
+sudo passwd <name>
+
